@@ -5,7 +5,7 @@ I'm a fun male who occasionally gets inspired to do random code projects. I have
 - Vixenion!
 - A simple, pool game-board app for my dad
 - GameBoy assemblr!!
-- My Patreon: https://www.patreon.com/ScottyBrenden (Nothing about coding here, just horny cartoons. lol)
+- My Patreon: https://www.patreon.com/ScottyBrenden (Nothing about coding here, just fluffy comix. lol)
 
 <!---
 adynbrenden/adynbrenden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
