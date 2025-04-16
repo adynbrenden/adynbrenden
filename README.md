@@ -1,10 +1,11 @@
 # Hello. Adyn Brenden here!
-## The Fluffy Cartoonist (among Other Things)
-I'm a fun male who occasionally gets inspired to do random code projects. I have ambitions to create at least one operating system and probably some games, but for now, I'm just a casual CS Student.
+## An 8-Bit Zoomer
+I'm a guy who takes interest in older tech and who finds joy in the torture that is writing whole walls of code without testing :') . I have ambitions to create at least one operating system but am consumed by my pursuit of cartooning and everchanging interests/ideas. 
 ## My Current Obsessions
 - Vixenion!
-- A simple, pool game-board app for my dad
-- GameBoy assemblr!!
+- Shavian Keyboard?
+- The Dragon Tamers!!! (Current comic project)
+- CUBIX (Mineclone)
 - My Patreon: https://www.patreon.com/ScottyBrenden (Nothing about coding here, just fluffy comix. lol)
 
 <!---
