@@ -6,7 +6,7 @@ I'm a guy who takes interest in older tech and who finds joy in the torture that
 - Shavian Keyboard?
 - The Dragon Tamers!!! (Current comic project)
 - Forte (Musical new social app)
-- My Patreon: https://www.patreon.com/ScottyBrenden (Nothing about coding here, just fluffy comix. lol)
+- Adyn.NeoCities.org (Official site WIP)
 
 <!---
 adynbrenden/adynbrenden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
